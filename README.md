@@ -13,7 +13,7 @@ Installation
 Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/mountain-equipment-website.git
+git clone https://github.com/SouravGupta778/CODSOFT-LANDING-PAGE.git
 Open the index.html file in your web browser.
 
 Usage
